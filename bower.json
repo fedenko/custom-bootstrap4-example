@@ -1,0 +1,18 @@
+{
+  "name": "custom-bootstrap4-example",
+  "authors": [
+    "Constantine Fedenko"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "tether": "^1.2.0",
+    "bootstrap": "4.0.0-alpha.2",
+    "holderjs": "^2.9.3"
+  }
+}
